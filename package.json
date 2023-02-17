@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "connect-session-sequelize": "^7.1.5",
+    "console.table": "^0.10.0",
+    "dotenv": "^16.0.3",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.1.2"
+  },
+  "devDependencies": {
+    "nodeman": "^1.1.2"
+  }
+}
